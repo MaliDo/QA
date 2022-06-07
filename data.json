@@ -1,0 +1,32 @@
+{"input": [
+{
+    "full_name_data":"John Doe",
+    "get_pic_path": "/Users/sergey/Documents/QA/Knowledgecity/chebu.jpg",
+    "birth_city_data": "Moscow",
+    "birthday_data": "01091990",
+    "zip_code_data": "117292",
+    "city_data": "Moscow",
+    "street_data": "1st Main St.",
+    "address_data": "123 1st Main St., apt. 1",
+    "recipient_bank_data": "Citibank",
+    "bank_id_data": "041111111",
+    "corr_acct_data": "30111111111111111111",
+    "tin_data": "111111111111",
+    "reg_reason_data": "111111111"
+},
+{   "full_name_data":"John Doe",
+    "get_pic_path": "/Users/sergey/Documents/QA/Knowledgecity/river.jpg",
+    "birth_city_data": "Moscow1",
+    "birthday_data": "010919901",
+    "zip_code_data": "1172921",
+    "city_data": "Moscow1",
+    "street_data": "1st Main St.",
+    "address_data": "123 1st Main St., apt. 1",
+    "recipient_bank_data": "Citibank1",
+    "bank_id_data": "0411111111",
+    "corr_acct_data": "301111111111111111111",
+    "tin_data": "1111111111111",
+    "reg_reason_data": "1111111111"
+}]
+
+}    
